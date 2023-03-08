@@ -1,0 +1,15 @@
+	O que é algoritmo?
+
+Algoritmo é um conjunto de instruções, como uma receita de bolo, constituído de um número finito de passos. Para que os dados sejam processados, há a necessidade de se utilizar uma linguagem de programação, pois os computadores não executam diretamente os algoritmos.
+
+Exemplo de Algoritmo:
+Receita de bolo de cenoura: Massa
+1	Pré-aqueça o forno em temperatura média (180°C).
+2	Unte e enfarinhe uma forma de furo central média (20 cm de diâmetro). Reserve.
+3	No copo do liquidificador, coloque a cenoura, o óleo e os ovos, e bata até a massa do bolo de cenoura ficar homogênea.
+4	Em uma tigela, peneire o amido de milho MAIZENA, a farinha de trigo, o fermento e o açúcar, junte a mistura de cenoura reservada, e mexa com o auxílio de uma espátula até que vire uma massa uniforme.
+5	Disponha a massa na forma reservada e leve ao forno por 40 minutos, ou até que um palito, depois de espetado na massa, saia limpo. Retire o forno e deixe amornar.
+
+	O que é lógica programação?
+
+Lógica de programação é a organização coesa de uma sequência de instruções voltadas à resolução de um problema, ou à criação de um software ou aplicação.
